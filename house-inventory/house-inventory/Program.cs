@@ -13,6 +13,8 @@ namespace house_inventory
                 new House {address = "This is neither of our houses", price = 150000, size = 1600 }
             };
 
+            houseInventory[0].OwnerName("Princess Peach");
+
             Console.WriteLine("Press Enter to see all available house inventory");
             Console.ReadLine();
             House.DisplayInventory(houseInventory);
@@ -25,11 +27,17 @@ namespace house_inventory
         public int size { get; set; }
         public int price { get; set; }
 
+        public void OwnerName(string ownerName)
+        {
+            owner = ownerName;
+        }
+        public string owner { get; private set; }
+
         public static void DisplayInventory(House[] houseInventory)
         {
             foreach (var house in houseInventory)
             {
-                Console.WriteLine($"Address: {house.address} / Size: {house.size} / Price: {house.price}");
+                Console.WriteLine($"Address: {house.address} / Size: {house.size} / Price: {house.price} / Owner: {house.owner}");
             }
         }
     }
