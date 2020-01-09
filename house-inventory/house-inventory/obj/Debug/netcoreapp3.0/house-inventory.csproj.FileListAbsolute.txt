@@ -1,0 +1,11 @@
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.exe
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.deps.json
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.runtimeconfig.json
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.runtimeconfig.dev.json
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.dll
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\bin\Debug\netcoreapp3.0\house-inventory.pdb
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\obj\Debug\netcoreapp3.0\house-inventory.csprojAssemblyReference.cache
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\obj\Debug\netcoreapp3.0\house-inventory.AssemblyInfoInputs.cache
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\obj\Debug\netcoreapp3.0\house-inventory.AssemblyInfo.cs
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\obj\Debug\netcoreapp3.0\house-inventory.dll
+C:\Users\Blaine M. Lawson\source\repos\house-inventory\house-inventory\obj\Debug\netcoreapp3.0\house-inventory.pdb
